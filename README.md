@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukund-deotale-b1a842177?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDMk10tK1SzS4qt6EorWLAg%3D%3D)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/mukundeotale/)
