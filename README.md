@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **mukundDeo9325/mukundDeo9325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukundeotale/)
 
 ## Hi there 👋 I'm Mukund Deotale
 
@@ -23,14 +21,13 @@ DevOps Engineer | AWS & Azure Cloud | CI/CD | Kubernetes | Terraform | Monitorin
 ---
 
 ### 🔭 Current Work
-- Working as a DevOps Engineer (3+ years experience)
+- Working as a DevOps Engineer 
 - Building and managing cloud infrastructure on AWS & Azure
 - Handling CI/CD pipelines, Docker/K8s deployments, and infrastructure automation
 
 ### 🌱 Currently Learning
 - GitHub & Git advanced workflows  
-- Azure DevOps + GitLab CI/CD  
-- Bicep, Terraform advanced provisioning  
+- Terraform advanced provisioning  
 - Incident / Change / Problem management best practices
 
 ### 💬 Ask Me About
@@ -62,10 +59,5 @@ DevOps Engineer | AWS & Azure Cloud | CI/CD | Kubernetes | Terraform | Monitorin
 
 ---
 
-### 📈 GitHub Stats
-
-![Mukund's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukundDeo9325&show_icons=true&theme=default)
-
----
 
 ⭐️ *Thanks for visiting! Feel free to connect and explore my repos.*
