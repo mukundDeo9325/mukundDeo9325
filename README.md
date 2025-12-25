@@ -38,19 +38,6 @@ High-impact **DevOps Engineer with 3+ years of experience** designing automated,
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://stats-github.vercel.app/api?username=mukundDeo9325&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://stats-github.vercel.app/api/top-langs/?username=mukundDeo9325&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=mukundDeo9325&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
 ## 🤝 Connect With Me
 <div align="center">
 <a href="https://www.linkedin.com/in/mukundeotale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -59,7 +46,3 @@ High-impact **DevOps Engineer with 3+ years of experience** designing automated,
 </div>
 
 ---
-
-<div align="center">
-💡 *“Automate the boring stuff so you can build the incredible stuff.”*
-</div>
