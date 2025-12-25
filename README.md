@@ -1,77 +1,80 @@
-<h1 align="center">Hi 👋, I'm Mukund Deotale</h1>
-<h3 align="center">DevOps Engineer | Cloud & Automation Specialist</h3>
+<h1 align="center">✨ Hi 👋, I'm <span style="color:#0e75b6">Mukund Deotale</span> ✨</h1>
+<h3 align="center">🚀 <span style="color:#ff9800">DevOps Engineer</span> | ☁️ Cloud & Automation Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mukundDeo9325&label=Profile%20Views&color=0e75b6&style=flat" alt="mukundDeo9325" />
+  <img src="https://komarev.com/ghpvc/?username=mukundDeo9325&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
 
 ---
 
-### 🚀 About Me
-- DevOps Engineer with **3+ years of hands-on experience**
-- Designing, automating & managing scalable cloud infrastructure
-- Strong in **AWS, Azure, Kubernetes, CI/CD & IaC**
-- Passionate about performance, security, and automation
+## 🌈 About Me
+🧑‍💻 DevOps Engineer with **3+ years of hands-on experience**  
+⚡ Designing, automating & managing scalable cloud infrastructure  
+☁️ Strong in **AWS, Azure, Kubernetes, CI/CD & IaC**  
+🔥 Passionate about performance, security & automation  
 
 ---
 
-### 🔭 What I’m Currently Doing
-- Managing production workloads on **AWS & Azure**
-- Building CI/CD pipelines using **GitHub Actions, GitLab CI & Jenkins**
-- Container orchestration using **Docker & Kubernetes**
-- Automating infrastructure using **Terraform, Ansible & Bicep**
+## 🛠️ What I’m Currently Doing
+| 🚀 | Working On |
+|---|---|
+| ☁️ | Managing production workloads on AWS & Azure |
+| 🔄 | Building CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins) |
+| 🐳 | Container orchestration using Docker & Kubernetes |
+| 🧩 | Infrastructure automation using Terraform, Ansible & Bicep |
 
 ---
 
-### 🌱 Currently Learning
-- Advanced Terraform & GitHub workflows  
-- Cloud cost optimization & security best practices  
-- Incident / Change / Problem Management (ITIL)
+## 📚 Currently Learning
+✨ Advanced Terraform & GitHub workflows  
+✨ Cloud cost optimization & security best practices  
+✨ ITIL Incident / Change / Problem Management  
 
 ---
 
-### 💬 Ask Me About
-- AWS & Azure Cloud Architecture  
-- CI/CD Pipelines (GitHub Actions, GitLab CI, Jenkins, Azure DevOps)  
-- Docker, Kubernetes, Terraform, Ansible  
-- Linux Administration & Shell Scripting  
+## 💬 Ask Me About
+> ☁️ AWS & Azure Architecture  
+> 🔄 CI/CD Pipelines  
+> 🐳 Docker & Kubernetes  
+> 🧩 Terraform & Ansible  
+> 🐧 Linux & Shell Scripting  
 
 ---
 
-### 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-| Category | Technologies |
-|---------|--------------|
+| 💎 Category | 🚀 Technologies |
+|------------|----------------|
 | ☁ Cloud | AWS (EC2, VPC, IAM, S3, RDS, EKS), Azure |
 | ⚙ DevOps | Docker, Kubernetes, Git, GitHub, GitLab, Azure DevOps |
 | 🧩 IaC | Terraform, Ansible, Bicep |
 | 🔄 CI/CD | Jenkins, GitHub Actions, GitLab CI |
 | 📊 Monitoring | CloudWatch, Prometheus, Grafana |
 | 🖥 OS | Ubuntu, Amazon Linux, RHEL |
-| 🌐 Web/Server | Nginx, Apache |
+| 🌐 Web | Nginx, Apache |
 | 📜 Scripting | Bash, Shell |
 
 ---
 
-### 📫 Connect With Me
+## 🌍 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/mukundeotale/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:Mukund.deotale@outlook.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-orange?style=for-the-badge&logo=microsoft-outlook"/>
 </a>
 <a href="https://github.com/mukundDeo9325">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
 ---
 
-### 📌 Motto
-> *“Automate everything that can be automated.”*
+## 🌟 Motto
+> 💡 *“Automate everything that can be automated.”*
 
-⭐️ **Thanks for visiting! Feel free to explore my repositories and connect with me.**
-
----
+<p align="center">
+✨ Thanks for visiting! Let’s build something amazing together ✨
+</p>
