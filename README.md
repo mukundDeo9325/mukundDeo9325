@@ -1,9 +1,6 @@
 <h1 align="center">✨ Hi 👋, I'm <span style="color:#0e75b6">Mukund Deotale</span> ✨</h1>
 <h3 align="center">🚀 <span style="color:#ff9800">DevOps Engineer</span> | ☁️ Cloud & Automation Specialist</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mukundDeo9325&label=Profile%20Views&color=brightgreen&style=flat" />
-</p>
 
 ---
 
