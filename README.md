@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 Professional Summary
-High-impact **DevOps Engineer with 3+ years of experience** designing automated, self-healing cloud infrastructures and high-velocity CI/CD pipelines.
+**DevOps Engineer with 3+ years of experience** designing automated, self-healing cloud infrastructures and high-velocity CI/CD pipelines.
 
 - 🔭 Architecting multi-region production workloads on **AWS & Azure**
 - ⚡ Infrastructure standardization using **Terraform & IaC**
