@@ -41,12 +41,14 @@ High-impact **DevOps Engineer with 3+ years of experience** designing automated,
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mukundDeo9325&show_icons=true&theme=radical&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundDeo9325&layout=compact&theme=radical&hide_border=true" />
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mukundDeo9325&theme=radical&hide_border=true" />
-</div>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=mukundDeo9325&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundDeo9325&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mukundDeo9325&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ## 🤝 Connect With Me
 <div align="center">
